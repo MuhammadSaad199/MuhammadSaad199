@@ -10,7 +10,6 @@ I'm a passionate front-end developer with a knack for crafting user-friendly and
 I have experience in:
 - Developing **scalable** and **maintainable** codebases.
 - Creating responsive designs for both desktop and mobile platforms.
-- Collaborating with teams on open-source and freelance projects.
 
 ---
 
@@ -18,16 +17,25 @@ I have experience in:
 Here are a few technologies I’ve been working with recently:
 
 **Languages:**
-- HTML5, CSS3, JavaScript (ES6+), TypeScript
+- HTML5, CSS3, JavaScript (ES6+), Python, TypeScript 
 
 **Frameworks & Libraries:**
-- React.js, Vue.js, TailwindCSS, Bootstrap
+- Vue.js, Nuxt js, TailwindCSS
 
 **Tools:**
-- Git & GitHub, Webpack, Vite, Figma, VS Code
+- Git & GitHub, Vite, VS Code, Figma
 
 **Other Skills:**
-- API Integration, SEO Optimization, Testing (Jest)
+- API Integration, Data Analyst, Testing
+
+---
+
+
+## Check My Github Stats:
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad199&" alt="MuhammadSaad199" />
+
+![MuhammadSaad199's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSaad199&show_icons=true&theme=radical&count_private=true)
+
 
 ---
 
@@ -39,41 +47,17 @@ Here are a few technologies I’ve been working with recently:
 
 ---
 
-## 📚 Projects
-
-### 🔗 [Project Name 1](https://github.com/MuhammadSaad199/project1)
-**Description:** A brief description of your project here.  
-**Tech Used:** HTML, CSS, React.js  
-
-### 🔗 [Project Name 2](https://github.com/MuhammadSaad199/project2)
-**Description:** Another project description.  
-**Tech Used:** Vue.js, TailwindCSS, API  
-
-> _Add more projects as needed, or even highlight your **top repositories** here._
-
----
-
 ## 📫 Contact Me
 I'm always open to networking and collaboration! Feel free to reach out:
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Muhammad Saad](https://linkedin.com/in/your-profile)
-- **Portfolio:** [YourPortfolio.com](https://yourportfolio.com)
-
----
-
-## 🌟 Achievements & Certifications
-
-- Completed **Frontend Development Certification** from [FreeCodeCamp](https://www.freecodecamp.org)
-- Winner of **Hackathon XYZ** (mention any competitions you’ve participated in!)
-- **Top Contributor** in Open Source Project [ProjectName](https://github.com/projectlink)
+- **Email:** [m.saad07700@gmail.com](mailto:m.saad07700@gmail.com)
+- **LinkedIn:** [Muhammad Saad](https://www.linkedin.com/in/muhammad-saad9001/)
 
 ---
 
 ## 🎯 Goals
 - Build and contribute to impactful open-source projects.
 - Improve skills in **backend development** to become a full-stack developer.
-- Master **UI/UX design principles**.
 
 ---
 
