@@ -30,15 +30,6 @@ Here are a few technologies I’ve been working with recently:
 
 ---
 
-
-## Check My Github Stats:
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadSaad199&" alt="MuhammadSaad199" />
-
-![MuhammadSaad199's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSaad199&show_icons=true&theme=radical&count_private=true)
-
-
----
-
 ## 📈 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MuhammadSaad199&theme=dark&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)
